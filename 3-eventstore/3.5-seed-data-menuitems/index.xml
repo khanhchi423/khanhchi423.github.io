@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seed Data for MenuItems on AWS System Manager</title>
-    <link>//localhost:1313/3-eventstore/3.5-seed-data-menuitems/</link>
+    <link>/3-eventstore/3.5-seed-data-menuitems/</link>
     <description>Recent content in Seed Data for MenuItems on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/3-eventstore/3.5-seed-data-menuitems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/3-eventstore/3.5-seed-data-menuitems/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

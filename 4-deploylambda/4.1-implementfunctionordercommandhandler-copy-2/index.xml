@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custom Event Bus Setup for Event Sourcing Workflow on AWS System Manager</title>
-    <link>//localhost:1313/4-deploylambda/4.1-implementfunctionordercommandhandler-copy-2/</link>
+    <link>/4-deploylambda/4.1-implementfunctionordercommandhandler-copy-2/</link>
     <description>Recent content in Custom Event Bus Setup for Event Sourcing Workflow on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/4-deploylambda/4.1-implementfunctionordercommandhandler-copy-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/4-deploylambda/4.1-implementfunctionordercommandhandler-copy-2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
