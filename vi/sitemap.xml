@@ -2,457 +2,457 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/2-prerequiste/2.1-install-nodejs/</loc>
+    <loc>/vi/2-prerequiste/2.1-install-nodejs/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/2.1-install-nodejs/"
+                href="/2-prerequiste/2.1-install-nodejs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/2.1-install-nodejs/"
+                href="/vi/2-prerequiste/2.1-install-nodejs/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-introduce/</loc>
+    <loc>/vi/1-introduce/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/"
+                href="/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/"
+                href="/vi/1-introduce/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/8-testing/8.1-testing/</loc>
+    <loc>/vi/8-testing/8.1-testing/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-testing/8.1-testing/"
+                href="/8-testing/8.1-testing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-testing/8.1-testing/"
+                href="/vi/8-testing/8.1-testing/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/3.1-create-eventstore-table/</loc>
+    <loc>/vi/3-eventstore/3.1-create-eventstore-table/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/3.1-create-eventstore-table/"
+                href="/3-eventstore/3.1-create-eventstore-table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/3.1-create-eventstore-table/"
+                href="/vi/3-eventstore/3.1-create-eventstore-table/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-configapigateway/6.1-create-new-api-gateway/</loc>
+    <loc>/vi/6-configapigateway/6.1-create-new-api-gateway/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-configapigateway/6.1-create-new-api-gateway/"
+                href="/6-configapigateway/6.1-create-new-api-gateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-configapigateway/6.1-create-new-api-gateway/"
+                href="/vi/6-configapigateway/6.1-create-new-api-gateway/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/7-deployfrontend/7.1-create-s3-bucket/</loc>
+    <loc>/vi/7-deployfrontend/7.1-create-s3-bucket/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-deployfrontend/7.1-create-s3-bucket/"
+                href="/7-deployfrontend/7.1-create-s3-bucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-deployfrontend/7.1-create-s3-bucket/"
+                href="/vi/7-deployfrontend/7.1-create-s3-bucket/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-setupeventbridge/5.1-customeventbus/</loc>
+    <loc>/vi/5-setupeventbridge/5.1-customeventbus/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-setupeventbridge/5.1-customeventbus/"
+                href="/5-setupeventbridge/5.1-customeventbus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-setupeventbridge/5.1-customeventbus/"
+                href="/vi/5-setupeventbridge/5.1-customeventbus/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/</loc>
+    <loc>/vi/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-deploylambda/4.1-implementfunctionordercommandhandler/</loc>
+    <loc>/vi/4-deploylambda/4.1-implementfunctionordercommandhandler/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploylambda/4.1-implementfunctionordercommandhandler/"
+                href="/4-deploylambda/4.1-implementfunctionordercommandhandler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploylambda/4.1-implementfunctionordercommandhandler/"
+                href="/vi/4-deploylambda/4.1-implementfunctionordercommandhandler/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-configapigateway/6.2-enable-cors/</loc>
+    <loc>/vi/6-configapigateway/6.2-enable-cors/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-configapigateway/6.2-enable-cors/"
+                href="/6-configapigateway/6.2-enable-cors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-configapigateway/6.2-enable-cors/"
+                href="/vi/6-configapigateway/6.2-enable-cors/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-prerequiste/</loc>
+    <loc>/vi/2-prerequiste/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/"
+                href="/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/"
+                href="/vi/2-prerequiste/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-prerequiste/2.2-setup-frontend-source/</loc>
+    <loc>/vi/2-prerequiste/2.2-setup-frontend-source/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/2.2-setup-frontend-source/"
+                href="/2-prerequiste/2.2-setup-frontend-source/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/2.2-setup-frontend-source/"
+                href="/vi/2-prerequiste/2.2-setup-frontend-source/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/</loc>
+    <loc>/vi/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/"
+                href="/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/"
+                href="/vi/5-setupeventbridge/5.1-customeventbus/5.1.1-configure-eventbridge-rules/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/8-testing/8.2-monitoring/</loc>
+    <loc>/vi/8-testing/8.2-monitoring/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-testing/8.2-monitoring/"
+                href="/8-testing/8.2-monitoring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-testing/8.2-monitoring/"
+                href="/vi/8-testing/8.2-monitoring/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/7-deployfrontend/7.2-upload-frontend-to-s3/</loc>
+    <loc>/vi/7-deployfrontend/7.2-upload-frontend-to-s3/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-deployfrontend/7.2-upload-frontend-to-s3/"
+                href="/7-deployfrontend/7.2-upload-frontend-to-s3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-deployfrontend/7.2-upload-frontend-to-s3/"
+                href="/vi/7-deployfrontend/7.2-upload-frontend-to-s3/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/3.2-create-orderreadmodel-table/</loc>
+    <loc>/vi/3-eventstore/3.2-create-orderreadmodel-table/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/3.2-create-orderreadmodel-table/"
+                href="/3-eventstore/3.2-create-orderreadmodel-table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/3.2-create-orderreadmodel-table/"
+                href="/vi/3-eventstore/3.2-create-orderreadmodel-table/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-prerequiste/2.3-create-iam-role/</loc>
+    <loc>/vi/2-prerequiste/2.3-create-iam-role/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/2.3-create-iam-role/"
+                href="/2-prerequiste/2.3-create-iam-role/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/2.3-create-iam-role/"
+                href="/vi/2-prerequiste/2.3-create-iam-role/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-deploylambda/4.2.-implementfunctionordereventprocessor/</loc>
+    <loc>/vi/4-deploylambda/4.2.-implementfunctionordereventprocessor/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploylambda/4.2.-implementfunctionordereventprocessor/"
+                href="/4-deploylambda/4.2.-implementfunctionordereventprocessor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploylambda/4.2.-implementfunctionordereventprocessor/"
+                href="/vi/4-deploylambda/4.2.-implementfunctionordereventprocessor/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/3.3-create-customerreadmodel-table/</loc>
+    <loc>/vi/3-eventstore/3.3-create-customerreadmodel-table/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/3.3-create-customerreadmodel-table/"
+                href="/3-eventstore/3.3-create-customerreadmodel-table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/3.3-create-customerreadmodel-table/"
+                href="/vi/3-eventstore/3.3-create-customerreadmodel-table/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/</loc>
+    <loc>/vi/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/"
+                href="/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/"
+                href="/vi/7-deployfrontend/7.3-create-cloudfrontdistributionandapplyittothewebsite/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-setupeventbridge/5.2-create-sns-topic-for-notifications/</loc>
+    <loc>/vi/5-setupeventbridge/5.2-create-sns-topic-for-notifications/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-setupeventbridge/5.2-create-sns-topic-for-notifications/"
+                href="/5-setupeventbridge/5.2-create-sns-topic-for-notifications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-setupeventbridge/5.2-create-sns-topic-for-notifications/"
+                href="/vi/5-setupeventbridge/5.2-create-sns-topic-for-notifications/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/</loc>
+    <loc>/vi/3-eventstore/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/"
+                href="/3-eventstore/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/"
+                href="/vi/3-eventstore/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-configapigateway/6.3-deploy-api/</loc>
+    <loc>/vi/6-configapigateway/6.3-deploy-api/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-configapigateway/6.3-deploy-api/"
+                href="/6-configapigateway/6.3-deploy-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-configapigateway/6.3-deploy-api/"
+                href="/vi/6-configapigateway/6.3-deploy-api/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-deploylambda/4.3.-implementfunctionorderqueryhandler/</loc>
+    <loc>/vi/4-deploylambda/4.3.-implementfunctionorderqueryhandler/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploylambda/4.3.-implementfunctionorderqueryhandler/"
+                href="/4-deploylambda/4.3.-implementfunctionorderqueryhandler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploylambda/4.3.-implementfunctionorderqueryhandler/"
+                href="/vi/4-deploylambda/4.3.-implementfunctionorderqueryhandler/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/3.4-create-menuitems-table/</loc>
+    <loc>/vi/3-eventstore/3.4-create-menuitems-table/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/3.4-create-menuitems-table/"
+                href="/3-eventstore/3.4-create-menuitems-table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/3.4-create-menuitems-table/"
+                href="/vi/3-eventstore/3.4-create-menuitems-table/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-deploylambda/</loc>
+    <loc>/vi/4-deploylambda/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploylambda/"
+                href="/4-deploylambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploylambda/"
+                href="/vi/4-deploylambda/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/</loc>
+    <loc>/vi/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/"
+                href="/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/"
+                href="/vi/4-deploylambda/4.4.-implementfunctionstatereconstructionhandler/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-eventstore/3.5-seed-data-menuitems/</loc>
+    <loc>/vi/3-eventstore/3.5-seed-data-menuitems/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-eventstore/3.5-seed-data-menuitems/"
+                href="/3-eventstore/3.5-seed-data-menuitems/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-eventstore/3.5-seed-data-menuitems/"
+                href="/vi/3-eventstore/3.5-seed-data-menuitems/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/5-setupeventbridge/</loc>
+    <loc>/vi/5-setupeventbridge/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-setupeventbridge/"
+                href="/5-setupeventbridge/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-setupeventbridge/"
+                href="/vi/5-setupeventbridge/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/6-configapigateway/</loc>
+    <loc>/vi/6-configapigateway/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-configapigateway/"
+                href="/6-configapigateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-configapigateway/"
+                href="/vi/6-configapigateway/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/7-deployfrontend/</loc>
+    <loc>/vi/7-deployfrontend/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-deployfrontend/"
+                href="/7-deployfrontend/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-deployfrontend/"
+                href="/vi/7-deployfrontend/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/8-testing/</loc>
+    <loc>/vi/8-testing/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-testing/"
+                href="/8-testing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-testing/"
+                href="/vi/8-testing/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/9-cleanup/</loc>
+    <loc>/vi/9-cleanup/</loc>
     <lastmod>1970-01-01T07:33:42+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-cleanup/"
+                href="/9-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-cleanup/"
+                href="/vi/9-cleanup/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/categories/</loc>
+    <loc>/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/</loc>
+    <loc>/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="/vi/tags/"
                 />
   </url>
 </urlset>
